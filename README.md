@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
+# Ex. No 1.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
 ## DATE: 11.03.2026
 
@@ -19,7 +19,7 @@
 ###  ●	Mini Drafter.
 ###  ●	Geometry instruments.
 
-## PROCEDURE:
+
 ## PROCEDURE:
 
 1. Draw a horizontal line **AD = 120 mm** to represent the fixed link of the four bar chain mechanism.
